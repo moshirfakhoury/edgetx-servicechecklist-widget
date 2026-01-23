@@ -31,7 +31,7 @@ Functions
   - Writes 0 to GV7 FM0 when service is up-to-date.
   - Writes 2 to GV7 FM0 when service is due soon (≤ 10 days)
   - Can be linked to logical switches for triggering special functions (e.g., automatic page load / sound alert).
-- Flexible Options: Up to 3 parameters can be used to select which checklist items are displayed.
+- Flexible Options: Up to 4 parameters can be used to select which checklist items are displayed.
 - Date Handling: Handles leap years, month lengths, and adds days to last service date to calculate the next due date.
 
 Notes
