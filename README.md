@@ -40,3 +40,21 @@ Notes
 - Does not modify screen layout; all text positions remain fixed for readability.
 - Flashing title and overdue highlighting can be customized in the code (flash rate, colors).
 - GV7 FM0 integration allows seamless automation with logical switches and special functions.
+
+<img width="495" height="287" alt="image" src="https://github.com/user-attachments/assets/1e0c1487-7c71-428a-8389-7dc740366e7a" />
+
+<img width="502" height="293" alt="image" src="https://github.com/user-attachments/assets/dfc954b5-0979-4730-9c84-d9e13ac9da1c" />
+
+<img width="497" height="290" alt="image" src="https://github.com/user-attachments/assets/e66b69da-de82-499a-9533-0ab21e05354f" />
+
+<img width="495" height="292" alt="image" src="https://github.com/user-attachments/assets/626d389c-2337-4c2d-bc43-436727bb9a56" />
+
+
+
+
+
+
+
+
+
+
