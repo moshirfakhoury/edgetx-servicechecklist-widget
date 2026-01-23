@@ -19,7 +19,7 @@ Functions
   - There are over 80 checklist items the user can select from.
   - The screen can display up to 16 checks at a time.
 - Overdue Alerts:
-  - Title flashes red/white and changes to “SERVICE DUE” when maintenance is overdue.
+  - Title flashes red and changes to “SERVICE DUE” when maintenance is overdue.
   - Last service and due dates are highlighted in red if overdue, otherwise green.
 - Days Counter:
   - A circle on the screen shows the number of days until the next service.
