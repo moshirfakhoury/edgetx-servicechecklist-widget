@@ -25,6 +25,7 @@ Functions
 - Checklist Display:
   - Predefined safety and mechanical service items are displayed in two columns.
   - There are over 80 checklist items the user can select from.
+  - The full list is stored in the Widget Checklist Items.txt file and can be viewed directly on the Radiomaster transmitter
   - The screen can display up to 16 checks at a time.
 - Overdue Alerts:
   - Title flashes red and changes to “SERVICE DUE” when maintenance is overdue.
