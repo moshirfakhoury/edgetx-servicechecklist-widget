@@ -78,6 +78,7 @@ Notes
 - Flashing title and overdue highlighting can be customized in the code (flash rate, colors).
 - GV7 FM0 integration allows seamless automation with logical switches and special functions.
 
+Date Mode:
 
 <img width="495" height="287" alt="image" src="https://github.com/user-attachments/assets/1e0c1487-7c71-428a-8389-7dc740366e7a" />
 
@@ -85,7 +86,31 @@ Notes
 
 <img width="497" height="290" alt="image" src="https://github.com/user-attachments/assets/e66b69da-de82-499a-9533-0ab21e05354f" />
 
-<img width="495" height="292" alt="image" src="https://github.com/user-attachments/assets/626d389c-2337-4c2d-bc43-436727bb9a56" />
+Fight Counter Mode:
+
+<img width="492" height="287" alt="image" src="https://github.com/user-attachments/assets/ee9c5f67-2aed-4a42-b525-bf0e7d4c2229" />
+
+<img width="496" height="287" alt="image" src="https://github.com/user-attachments/assets/b3c071c3-d2d1-4f3f-800b-a4dcc4adbe24" />
+
+<img width="498" height="292" alt="image" src="https://github.com/user-attachments/assets/c6425d13-4110-4b0e-b771-511f8390a11b" />
+
+Widget Options:
+
+<img width="492" height="287" alt="image" src="https://github.com/user-attachments/assets/bfb3027b-b0c8-4016-a6f8-c6489c26d832" />
+
+<img width="495" height="287" alt="image" src="https://github.com/user-attachments/assets/73c16b4e-d96b-4bd0-870b-5ec4370fdfea" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
