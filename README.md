@@ -82,7 +82,7 @@ Notes
 Installation
 - Dowload the ZIP file
 - Extract content from ZIP file
-- Copy only the last folder called '' with the main.lua and Readme.txt
+- Copy only the last folder called 'serviceList' with the main.lua, README.txt and Widget Checklist Items.txt
 - Paste the folder into your SDCard/WIDGETS folder
 - If you want to use the sound files provided, copy and pasted them into SDCard/SOUNDS/en folder - you can then assign them to Special Functions
 
