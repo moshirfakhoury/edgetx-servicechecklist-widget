@@ -80,11 +80,12 @@ Notes
 - GV7 FM0 integration allows seamless automation with logical switches and special functions.
 
 Installation
-- Dowload the ZIP file
-- Extract content from ZIP file
-- Copy only the last folder called 'serviceList' with the main.lua, README.txt and Widget Checklist Items.txt
-- Paste the folder into your SDCard/WIDGETS folder
-- If you want to use the sound files provided, copy and pasted them into SDCard/SOUNDS/en folder - you can then assign them to Special Functions
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Find the last folder named serviceList (it contains main.lua, README.txt, and Widget Checklist Items.txt)
+- Copy only the serviceList folder
+- Paste it into your SDCard/WIDGETS directory
+- (Optional) If you want to use the included sound files, copy them into SDCard/SOUNDS/en, then assign them to your Special Functions
 
 Date Mode:
 
