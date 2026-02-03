@@ -79,6 +79,13 @@ Notes
 - Flashing title and overdue highlighting can be customized in the code (flash rate, colors).
 - GV7 FM0 integration allows seamless automation with logical switches and special functions.
 
+Installation
+- Dowload the ZIP file
+- Extract content from ZIP file
+- Copy only the last folder called '' with the main.lua and Readme.txt
+- Paste the folder into your SDCard/WIDGETS folder
+- If you want to use the sound files provided, copy and pasted them into SDCard/SOUNDS/en folder - you can then assign them to Special Functions
+
 Date Mode:
 
 <img width="495" height="287" alt="image" src="https://github.com/user-attachments/assets/1e0c1487-7c71-428a-8389-7dc740366e7a" />
